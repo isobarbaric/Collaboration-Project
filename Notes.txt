@@ -1,0 +1,31 @@
+Computer Science
+- Game modding
+  - Stardew
+- Web Development
+  - Blog
+    - Wordpress
+    - Jekyll 
+  - Business
+- Chrome Extension
+
+Educational
+- Personal Finance
+- Computer Science
+- Personal Life stuff (e.g. socio-emotional, time-management, etc.)
+
+Stocks
+
+Potential Plan
+- Make Blog using Jekyll about (...)
+- website skeleton
+- content (orz Sasa) 
+
+objectives part of plan:
+- get website ready and rolling ( week)
+- plan content and what its going to be 
+
+
+
+
+
+
