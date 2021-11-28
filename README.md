@@ -1,2 +1,3 @@
 # Collaboration-Project
-All Ideas and Code for Project
+
+This repo will house all our ideas and code for our collaborative project.
